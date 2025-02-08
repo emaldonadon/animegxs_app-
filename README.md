@@ -5,16 +5,18 @@ APK de android para ver anime, hecho con flutter, libre de virus
 
 > Pantalla de animes en emision, actualizado constantemente.
 
-(./src/assets/img1-animegxs.jpeg)
+<img src="src/assets/img1-animegxs.jpeg" width="200" />
 
 > Pantalla del reproductor del capitulo con opcion de descargas.
 
-(./src/assets/img2-animegxs.jpeg)
+<img src="src/assets/img2-animegxs.jpeg" width="200" />
 
-> Pantalla donde se pued ver la lista de catalogos
+> Pantalla donde se puede ver la lista de catálogos.
 
-(./src/assets/img3-animegxs.jpeg)
+<img src="src/assets/img3-animegxs.jpeg" width="200" />
 
-## DESCARGAR APK AQUI DE FORMA SEGURA
+## COMO DESCARGAR EL APK 
 
-[APK AnimeGxs](apk/animegxs.apk)
+ >Dirigete a la carpeta src/apk
+
+[APK AnimeGxs](src/)
